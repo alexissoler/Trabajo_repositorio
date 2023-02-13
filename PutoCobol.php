@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Cobol es un cabron</p>
+    <p>Cobol es un cabron y encima no hace nada, yo lo hechaba del curso</p>
+    <a href="Report">COBOL COBOL</a>
 </body>
 </html>
